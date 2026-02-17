@@ -4,6 +4,7 @@ function ButtonComponent(){
     )
 }
 function ProductItem() {
+    // console.log(props);
     return <div>
       <p>product 1</p>
       <ButtonComponent/>

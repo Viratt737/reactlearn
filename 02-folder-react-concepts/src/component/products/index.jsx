@@ -5,7 +5,7 @@ function ProductList(){
         <div>
             <h3>ECommerce Project</h3>
             {/* <ProductItem/> */}
-
+             <h4>{listofproduct}</h4>
             <ul>
                 {
                     dummpProduct.map((item , index) => (
